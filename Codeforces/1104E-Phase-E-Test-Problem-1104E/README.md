@@ -10,12 +10,10 @@
 | Problem ID | 1104E |
 | Status | Accepted |
 | Language | cpp |
-| Difficulty | 1200 |
-| Tags | Brute Force, Implementation |
 
 ## Problem
 
-[View Problem](https://codeforces.com/problemset/problem/1104/E)
+Not available.
 
 ## Solution
 
