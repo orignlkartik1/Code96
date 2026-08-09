@@ -1,3 +1,1 @@
-// Solution for 1104E
-#include <iostream>
-int main() { return 0; }
+// Overwritten code version 2
