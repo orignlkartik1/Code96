@@ -1,18 +1,20 @@
 {
   "version": 1,
-  "total_solved": 1,
+  "total_solved": 2,
   "platforms": {
-    "Codeforces": 1
+    "Codeforces": 2
   },
   "languages": {
-    "cpp": 1
+    "cpp": 2
   },
   "patterns": {
     "Brute Force": 1,
-    "Implementation": 1
+    "Implementation": 1,
+    "implementation": 1,
+    "atomic": 1
   },
   "difficulty": {
-    "1200": 1
+    "1200": 2
   },
   "last_solved_at": "2026-08-11",
   "streak": {
