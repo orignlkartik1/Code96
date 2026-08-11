@@ -1,3 +1,2 @@
-// Phase G Atomic Test Code
-#include <iostream>
-int main() { std::cout << "Atomic"; return 0; }
+// Phase G Overwritten Code
+int main() { return 1; }
