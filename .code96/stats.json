@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "total_solved": 2,
+  "total_solved": 3,
   "platforms": {
-    "Codeforces": 2
+    "Codeforces": 3
   },
   "languages": {
-    "cpp": 2
+    "cpp": 3
   },
   "patterns": {
     "Brute Force": 1,
