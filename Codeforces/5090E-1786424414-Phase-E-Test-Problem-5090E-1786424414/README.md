@@ -10,12 +10,10 @@
 | Problem ID | 5090E-1786424414 |
 | Status | Accepted |
 | Language | cpp |
-| Difficulty | 1200 |
-| Tags | Brute Force, Implementation |
 
 ## Problem
 
-[View Problem](https://codeforces.com/problemset/problem/5090/E)
+Not available.
 
 ## Solution
 
