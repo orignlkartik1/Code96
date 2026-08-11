@@ -10,12 +10,10 @@
 | Problem ID | 7961E-1786429098 |
 | Status | Accepted |
 | Language | cpp |
-| Difficulty | 1200 |
-| Tags | Brute Force, Implementation |
 
 ## Problem
 
-[View Problem](https://codeforces.com/problemset/problem/7961/E)
+Not available.
 
 ## Solution
 
