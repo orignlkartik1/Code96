@@ -9,7 +9,7 @@
 | Platform | Codeforces |
 | Problem ID | 4A |
 | Status | Accepted |
-| Language | cpp |
+| Language | C++ |
 
 ## Problem
 
