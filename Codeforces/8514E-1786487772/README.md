@@ -10,12 +10,10 @@
 | Problem ID | 8514E-1786487772 |
 | Status | Accepted |
 | Language | C++ |
-| Difficulty | 1200 |
-| Tags | Brute Force, Implementation |
 
 ## Problem
 
-[View Problem](https://codeforces.com/problemset/problem/8514/E)
+Not available.
 
 ## Solution
 
