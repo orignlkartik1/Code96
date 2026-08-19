@@ -6,7 +6,7 @@ Competitive programming solutions automatically maintained and tracked by Code96
 
 | Metric | Value |
 |---|---:|
-| Problems Solved | 1 |
+| Problems Solved | 2 |
 | Current Streak | 1 day |
 | Longest Streak | 1 day |
 
@@ -14,13 +14,13 @@ Competitive programming solutions automatically maintained and tracked by Code96
 
 | Platform | Problems |
 |---|---:|
-| Codeforces | 1 |
+| Codeforces | 2 |
 
 ## Languages
 
 | Language | Solutions |
 |---|---:|
-| C++ | 1 |
+| C++ | 2 |
 
 ## Problem Patterns
 
@@ -28,12 +28,14 @@ Competitive programming solutions automatically maintained and tracked by Code96
 |---|---:|
 | Brute Force | 1 |
 | Implementation | 1 |
+| atomic | 1 |
+| implementation | 1 |
 
 ## Difficulty
 
 | Difficulty | Problems |
 |---|---:|
-| 1200 | 1 |
+| 1200 | 2 |
 
 ## Repository Structure
 
