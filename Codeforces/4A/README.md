@@ -1,4 +1,4 @@
-# Untitled Problem
+# Watermelon
 
 > Codeforces 4A
 
@@ -10,10 +10,12 @@
 | Problem ID | 4A |
 | Status | Accepted |
 | Language | C++ |
+| Difficulty | 800 |
+| Tags | Math, Implementation |
 
 ## Problem
 
-Not available.
+[View Problem](https://codeforces.com/problemset/problem/4/A)
 
 ## Solution
 
