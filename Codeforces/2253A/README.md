@@ -9,11 +9,11 @@
 | Platform | Codeforces |
 | Problem ID | 2253A |
 | Status | Accepted |
-| Language | C++ |
+| Language | Python |
 
 ## Problem
 
-[View Problem](https://codeforces.com/problemset/problem/2253/A)
+[View Problem](https://codeforces.com/problemset/status?my=on)
 
 ## Solution
 
