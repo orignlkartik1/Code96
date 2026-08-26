@@ -1,68 +1,29 @@
 # Code96
 
-Competitive programming solutions automatically maintained and tracked by Code96.
+Competitive programming solutions automatically maintained by Code96.
 
-## Progress
+## Statistics
 
-| Metric | Value |
-|---|---:|
-| Problems Solved | 2 |
-| Current Streak | 1 day |
-| Longest Streak | 1 day |
+Total Problems Solved: 0
 
 ## Platforms
 
-| Platform | Problems |
-|---|---:|
-| Codeforces | 2 |
+*No platforms recorded yet.*
 
 ## Languages
 
-| Language | Solutions |
-|---|---:|
-| C++ | 2 |
+*No languages recorded yet.*
 
 ## Problem Patterns
 
-| Pattern | Problems |
-|---|---:|
-| Brute Force | 1 |
-| Implementation | 1 |
-| atomic | 1 |
-| implementation | 1 |
-
-## Difficulty
-
-| Difficulty | Problems |
-|---|---:|
-| 1200 | 2 |
+*No problem patterns recorded yet.*
 
 ## Repository Structure
 
-```text
-Code96/
-├── .code96/
-│   ├── stats.json
-│   └── config.json
-│
-├── Codeforces/
-│   └── <problem>/
-│       ├── solution.<ext>
-│       └── README.md
-│
-└── README.md
-```
-
-- `.code96/`: Machine-readable Code96 metadata and persistent statistics storage.
-- Platform directories: Organized competitive programming problem solutions.
-- Per-problem directories: Contains solution code and problem specification README.
-- `README.md`: Automatically generated presentation layer summarizing progress.
-
-## About Code96
-
-Code96 automatically extracts competitive programming submissions, organizes solutions in GitHub, and tracks solving progress.
+- `.code96/`: Metadata and statistics storage
+- `Codeforces/`: Codeforces problem solutions
+- `CSES/`: CSES problem solutions
+- `LeetCode/`: LeetCode problem solutions
 
 ---
-
-Generated and maintained automatically by [Code96](https://github.com/orignlkartik1/Code96).
-Do not manually modify generated statistics.
+Powered by [Code96](https://github.com/orignlkartik1/Code96)
