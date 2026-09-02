@@ -6,21 +6,21 @@ Competitive programming solutions automatically maintained and tracked by Code96
 
 | Metric | Value |
 |---|---:|
-| Problems Solved | 4 |
-| Current Streak | 2 days |
+| Problems Solved | 5 |
+| Current Streak | 1 day |
 | Longest Streak | 2 days |
 
 ## Platforms
 
 | Platform | Problems |
 |---|---:|
-| Codeforces | 4 |
+| Codeforces | 5 |
 
 ## Languages
 
 | Language | Solutions |
 |---|---:|
-| C++ | 4 |
+| C++ | 5 |
 
 ## Problem Patterns
 
